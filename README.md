@@ -1,4 +1,4 @@
-## Hi👋 I'm Bobi Permana Sandi
+## Hi👋 I'm Bobi 
 
 <!--
 **bobipermanasandi/bobipermanasandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
