@@ -25,9 +25,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/bobi-permana-sandi" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://bobipermanasandi.medium.com" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/29397694" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobipermanasandi" alt="bobipermanasandi" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bobipermanasandi&show_icons=true&locale=en" alt="bobipermanasandi" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bobipermanasandi&show_icons=true&locale=en&layout=compact" alt="bobipermanasandi" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobipermanasandi" alt="bobipermanasandi" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/bobipermanasandi">
