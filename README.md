@@ -30,8 +30,11 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bobipermanasandi&show_icons=true&locale=en&layout=compact" alt="bobipermanasandi" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/bobipermanasandi">
+<!-- <a href="https://www.buymeacoffee.com/bobipermanasandi">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a> -->
+<a href="https://www.ko-fi.com/bobipermanasandi">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
 </p>
 </p>
