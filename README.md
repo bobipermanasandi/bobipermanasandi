@@ -49,8 +49,9 @@ I'm currently working on Software, Anime, and Content Creation. I love exploring
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+   
 
 </details>
 
