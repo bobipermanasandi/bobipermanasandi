@@ -20,9 +20,9 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Flutter
 - 🚀 &nbsp; I’m currently exploring Kotlin & Laravel; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bobi-permana-sandi/) or Reach me out: bobipermana17@gmail.com.
 - 📝 &nbsp; Checkout my [website](https://bobipermana.vercel.app)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bobi-permana-sandi/) or Reach me out: bobipermana17@gmail.com;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 <br>
 
 
@@ -30,7 +30,7 @@ Like My Work?
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🎞️ &nbsp; Favorite anime [Kage No Jitsuryokusha](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
+- 🎞️ &nbsp; Anime [Kage No Jitsuryokusha](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
 
 
 ### Languages and Tools:
