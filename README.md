@@ -7,11 +7,6 @@ I'm currently working on Software, Anime, and Content Creation. I love exploring
 <br/>
 <br/>
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/bobipermanasandi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="360px"/>
 
@@ -56,6 +51,11 @@ Like My Work?
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobipermanasandi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
-
 </details>
+
+<hr>
+Like My Work?
+
+<br>
+
+<a href="https://buymeacoffee.com/bobipermanasandi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
