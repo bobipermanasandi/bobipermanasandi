@@ -13,11 +13,11 @@ I'm currently working on Software, Anime, and Content Creation. I love exploring
 ### 🧐 More About Me:
 
 - 🛠️ &nbsp; I’m currently working with Flutter
-- 🚀 &nbsp; I’m currently exploring Kotlin & Laravel; 
+- 🚀 &nbsp; I’m currently exploring Kotlin & Laravel
 - 🌏 &nbsp; Checkout my [website](https://bobipermana.vercel.app)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bobi-permana-sandi/)
-- ✉️ &nbsp; Reach me out: bobipermana17@gmail.com;
+- ✉️ &nbsp; Reach me out: bobipermana17@gmail.com
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 <br>
 
