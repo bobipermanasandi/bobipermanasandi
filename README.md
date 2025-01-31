@@ -3,7 +3,7 @@
 <a href='https://www.linkedin.com/in/bobi-permana-sandi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/bobipermana78/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/twitter.svg" height='18px'/></a><br>
 
-I'm currently working on Software, Anime, and Content Creation. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I'm currently working on Software & Content Creation Flutter. In the future, it is possible to share other technologies as well. I love exploring new technology stacks 💻 and leveraging them to build cool things 🛠️. 
 <br/>
 <br/>
 
@@ -26,7 +26,7 @@ I'm currently working on Software, Anime, and Content Creation. I love exploring
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🎞️ &nbsp; Anime [Kage No Jitsuryokusha](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
+- 🎞️ &nbsp; Favorite anime [Kage No Jitsuryokusha](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
 
 
 ### Languages and Tools:
@@ -56,7 +56,7 @@ I'm currently working on Software, Anime, and Content Creation. I love exploring
 </details>
 
 <hr>
-Like My Work?
+Like My Work? must watch
 
 <br>
 
