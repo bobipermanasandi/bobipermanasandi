@@ -3,7 +3,7 @@
 <a href='https://www.linkedin.com/in/bobi-permana-sandi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/bobipermana78/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/twitter.svg" height='18px'/></a><br>
 
-I'm currently working on Software & Content Creation Flutter. In the future, it is possible to share other technologies as well. I love exploring new technology stacks 💻 and leveraging them to build cool things 🛠️. 
+I'm currently working on mobile Software Engineer specializing in Flutter. In the future, it is possible to share other technologies as well. I love exploring new technology stacks 💻 and leveraging them to build cool things 🛠️. 
 <br/>
 <br/>
 
