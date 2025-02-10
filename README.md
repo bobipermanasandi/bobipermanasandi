@@ -21,8 +21,6 @@ I love exploring new technology stacks 💻 and leveraging them to build cool th
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bobi-permana-sandi/)
 - ✉️ &nbsp; Reach me out: bobipermana17@gmail.com
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-<br>
-
 
 ### Languages and Tools:
 
@@ -51,7 +49,7 @@ I love exploring new technology stacks 💻 and leveraging them to build cool th
 </details>
 
 <hr>
-Like My Work? must watch
+Like My Work?
 
 <br>
 
