@@ -22,13 +22,6 @@ I'm currently working on Software & Content Creation Flutter. In the future, it 
 <br>
 
 
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🎞️ &nbsp; Favorite anime [Kage No Jitsuryokusha](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)
-
-
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart"></code>
