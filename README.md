@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Bobi !
 
-<a href='https://www.linkedin.com/in/bobi-permana-sandi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/bobipermanasandi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/bobipermana78/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/twitter.svg" height='18px'/></a><br>
 
 I'm currently working on mobile Software Engineer specializing in Flutter. In the future, it is possible to share other technologies as well. 
