@@ -20,7 +20,6 @@ I love exploring new technology stacks 💻 and leveraging them to build cool th
 - 🚀 &nbsp; I’m currently exploring Kotlin & Laravel
 - ✍️ &nbsp; I’m Creator of [@CodeSynesia](https://github.com/codesynesia)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/bobipermanasandi/)
 - ✉️ &nbsp; Reach me out: [bobipermana17@gmail.com](mailto:bobipermana17@gmail.com)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 
