@@ -5,26 +5,31 @@
 <br>
 <br>
 
-I'm currently working on mobile Software Engineer specializing in Flutter. In the future, it is possible to share other technologies as well. 
+I'm a passionate **Flutter Developer** who loves building beautiful, fast, and responsive cross-platform mobile apps. I believe in clean code, continuous learning, and shipping useful products.
 
-I love exploring new technology stacks 💻 and leveraging them to build cool things 🛠️. 
 <br/>
-<br/>
-
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="360px"/>
 
-### 🧐 More About Me:
+### 🧐 More About Me :
 
 - 🛠️ &nbsp; I’m currently working with Flutter
 - 🚀 &nbsp; I’m currently exploring Kotlin & Laravel
-- ✍️ &nbsp; I’m Creator of [@CodeSynesia](https://github.com/codesynesia)
+- ✍️ &nbsp; I'm Creator of **[CodeSynesia](https://medium.com/@codesynesia)** – a personal knowledge space
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
 - ✉️ &nbsp; Reach me out: [bobipermana17@gmail.com](mailto:bobipermana17@gmail.com)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+  
 
+### 📂 Tech Stack :
+- **Mobile**: Flutter, Dart
+- **State Management**: BLoC, Provider, Riverpod, GetX
+- **Database**: SQLite, Hive, Firebase Firestore
+- **API Integration**: REST, Dio, HTTP, Retrofit
+- **Architecture**: Clean Architecture, MVVM
+- **Others**: Git, GitHub Actions, Figma (for UI), Notion (for planning)
 
-### Projects and Dev Stuffs:
+### Projects and Dev Stuffs :
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
