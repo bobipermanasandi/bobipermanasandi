@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Bobi !
 
-<a href='https://www.linkedin.com/in/bobipermanasandi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/linkedin.svg" height='5'/></a>
-<a href='https://twitter.com/bobipermana78/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/twitter.svg" height='5'/></a><br>
+<a href='https://www.linkedin.com/in/bobipermanasandi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/linkedin.svg" height='24'/></a>
+<a href='https://twitter.com/bobipermana78/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/twitter.svg" height='24'/></a><br>
 <br>
 <br>
 
