@@ -1,3 +1,5 @@
+![bobipermanasandi's Stats](https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 ## Hey There, I'm Bobi ! 👋
 
 I'm a passionate **Flutter Developer** who loves building beautiful, fast, and responsive cross-platform mobile apps. I believe in clean code, continuous learning, and shipping useful products.
@@ -22,5 +24,5 @@ You also can find me at :
 <br/>
 
 
-![bobipermanasandi's Stats](https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobipermanasandi&repo=DermCare&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)](https://github.com/bobipermanasandi/DermCare)
