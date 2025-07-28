@@ -25,4 +25,4 @@ You also can find me at :
 
 
 ![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bobipermanasandi&repo=DermCare&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)](https://github.com/bobipermanasandi/DermCare)
+
