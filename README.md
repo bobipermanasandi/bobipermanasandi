@@ -12,6 +12,8 @@ I'm a passionate **Flutter Developer** who loves building beautiful, fast, and r
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - ⚡  &nbsp; Fun fact: Sometimes the code works not because we understood it, but because it *suddenly worked* — and we swear never to touch it again 😅
 
+<br />
+<br />
 
 ![bobipermanasandi's Stats](https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
