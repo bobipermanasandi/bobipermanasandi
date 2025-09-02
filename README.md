@@ -11,10 +11,8 @@ I'm a passionate **Flutter Developer** who loves building beautiful, fast, and r
 - 🖥️ &nbsp; I’m currently diving deeper into Laravel
 - 💎 &nbsp; I’m creator of [CodeSynesia](https://linktr.ee/codesynesia) 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 💬 &nbsp; Ask me about  Dart, Flutter, PHP or Laravel
 - 🗣️ &nbsp; “If it works, don’t touch it. If it breaks, pretend it wasn’t you 🤣”
-
-
 <br />
 <br />
 
