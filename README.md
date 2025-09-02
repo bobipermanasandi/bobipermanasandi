@@ -8,7 +8,7 @@ I'm a passionate **Flutter Developer** who loves building beautiful, fast, and r
 ### 😎 More About Me :
 
 - 🛠️ &nbsp; I’m currently working with Flutter
-- 🛠️ &nbsp; I’m creator of [CodeSynesia](https://linktr.ee/codesynesia) 
+- 💻 &nbsp; I’m creator of [CodeSynesia](https://linktr.ee/codesynesia) 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - ⚡  &nbsp; Fun fact: Sometimes the code works not because we understood it, but because it *suddenly worked* — and we swear never to touch it again 😅
