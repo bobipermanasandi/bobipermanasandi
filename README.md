@@ -16,7 +16,9 @@ I'm a passionate **Flutter Developer** who loves building beautiful, fast, and r
 <br />
 
 ![bobipermanasandi's Stats](https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) <img src="assets/images.jpg" height="300px"/>
+![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
+<br />
+<img src="assets/images.jpg" height="300px"/>
 
 🗣️ &nbsp; "Continuous improvement is better than delayed perfection" - [Mélodie | Visual Ideas](https://x.com/melodie_tld/status/1549023788330893313)
 <br />
