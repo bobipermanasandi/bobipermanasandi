@@ -12,9 +12,11 @@ I'm a passionate **Flutter Developer** who loves building beautiful, fast, and r
 - 💎 &nbsp; I’m Founder of [CodeSynesia](https://linktr.ee/codesynesia) 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
 - 💬 &nbsp; Ask me about **Dart**, **Flutter**, **PHP**, or **Laravel**
-- 🗣️ &nbsp; Fun Fact : “If it works, don’t touch it. If it breaks, pretend it wasn’t you 🤣”
-<br />
+  
 <br />
 
 ![bobipermanasandi's Stats](https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) <img src="assets/images.jpg" height="300px"/>
+
+🗣️ &nbsp; "Continuous improvement is better than delayed perfection" - [Mélodie | Visual Ideas](https://x.com/melodie_tld/status/1549023788330893313)
+<br />
