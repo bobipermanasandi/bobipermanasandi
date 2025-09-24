@@ -47,14 +47,8 @@
 > *"Continuous improvement is better than delayed perfection."*  
 > — [Mélodie | Visual Ideas](https://x.com/melodie_tld/status/1549023788330893313)
 
-### 📫 Let’s Connect!
-
-- 📧 Email: [bobipermana17@gmail.com](mailto:bobipermana17@gmail.com)
-- 🧑‍💻 GitHub: [@bobipermanasandi](https://github.com/bobipermanasandi)
-
----
 
 <!-- Feel free to remove this footer if you prefer a cleaner look -->
 <p align="center">
-  <sub>Made with ❤️ by CodeSynesia • Powered by curiosity and coffee ☕</sub>
+  <sub>Made with ❤️ by CodeSynesia • Powered by curiosity and mochaccino ☕</sub>
 </p>
