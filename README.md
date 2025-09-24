@@ -1,25 +1,60 @@
-## Hey There, I'm Bobi ! 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Bobi Permana Sandi</h1>
+<h3 align="center">💻 Mobile Developer | 🚀 Lifelong Learner | 🌐 Based in Indonesia</h3>
 
-I'm a passionate **Flutter Developer** who loves building beautiful, fast, and responsive cross-platform mobile apps. I believe in clean code, continuous learning, and shipping useful products.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="300" alt="Coding GIF"/>
+</p>
 
+### 🔍 About Me
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="360px"/>
+- 📱 &nbsp; Passionate about **Mobile App Development**
+- 🖥️ &nbsp; Currently building apps using **Flutter**
+- 🌱 &nbsp; Exploring the backend world with **PHP & Laravel**
+- 🤝 &nbsp; Open for collaboration & freelance work
+- 📬 &nbsp; Reach me at: **bobipermana17@gmail.com**
+- 📂 &nbsp; My projects live here: [GitHub Repositories](https://github.com/bobipermanasandi?tab=repositories)
 
-### 😎 More About Me :
+---
 
-- 📱 &nbsp; I’m currently working with Flutter
-- 🖥️ &nbsp; I’m currently diving into Laravel
-- 💎 &nbsp; I’m Founder of [CodeSynesia](https://linktr.ee/codesynesia) 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bobipermanasandi?tab=repositories)
-- 💬 &nbsp; Ask me about **Dart**, **Flutter**, **PHP**, or **Laravel**
-  
-<br />
-<br />
+### ⚒️ Tech Stack & Tools
 
-![bobipermanasandi's Stats](https://github-readme-stats.vercel.app/api?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![bobipermanasandi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobipermanasandi&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) 
-<br />
-<img src="assets/images.jpg" height="300px"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</p>
 
-🗣️ &nbsp; "Continuous improvement is better than delayed perfection" - [Mélodie | Visual Ideas](https://x.com/melodie_tld/status/1549023788330893313)
-<br />
+### 📊 Github Statistic
+
+<p align="left">
+<a href="https://github.com/bobipermanasandi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bobipermanasandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobipermanasandi&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+---
+
+### 💬 Quote I Live By
+
+<img src="assets/images.jpg" height="300em" />
+
+> *"Continuous improvement is better than delayed perfection."*  
+> — [Mélodie | Visual Ideas](https://x.com/melodie_tld/status/1549023788330893313)
+
+### 📫 Let’s Connect!
+
+- 📧 Email: [bobipermana17@gmail.com](mailto:bobipermana17@gmail.com)
+- 🧑‍💻 GitHub: [@bobipermanasandi](https://github.com/bobipermanasandi)
+
+---
+
+<!-- Feel free to remove this footer if you prefer a cleaner look -->
+<p align="center">
+  <sub>Made with ❤️ by CodeSynesia • Powered by curiosity and coffee ☕</sub>
+</p>
