@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Bobi Permana Sandi</h1>
+<h1 align="center">Hi there 👋, I'm Bobi</h1>
 <h3 align="center">💻 Mobile Developer | 🚀 Lifelong Learner | 🌐 Based in Indonesia</h3>
 
 <p align="center">
