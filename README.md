@@ -50,5 +50,5 @@
 
 <!-- Feel free to remove this footer if you prefer a cleaner look -->
 <p align="center">
-  <sub>Made with ❤️ by CodeSynesia • Powered by curiosity and mochaccino ☕</sub>
+  <sub>Made with ❤️ by CodeSynesia • Powered by curiosity and grass jelly cappuccino ☕</sub>
 </p>
