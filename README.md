@@ -40,7 +40,7 @@
 
 ---
 
-### 💬 Quote I Live By
+### 💬 Quote at the moment
 
 <img src="assets/images.jpg" height="300em" />
 
