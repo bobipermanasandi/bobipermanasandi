@@ -12,8 +12,7 @@
 - 🖥️ &nbsp; Currently building apps using **Flutter**
 - 🌱 &nbsp; Exploring the backend with **PHP & Laravel**
 - 🤝 &nbsp; Open for collaboration & freelance work
-- 📬 &nbsp; Reach me at: **bobipermana17@gmail.com**
-- 📂 &nbsp; My projects live here: [GitHub Repositories](https://github.com/bobipermanasandi?tab=repositories)
+- 📬 &nbsp; Reach me at [bobipermana17@gmail.com](mailto:bobipermana17@gmail.com) || [LinkedIn](https://www.linkedin.com/in/bobipermanasandi)
 
 ---
 
@@ -35,8 +34,19 @@
 <a href="https://github.com/bobipermanasandi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bobipermanasandi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobipermanasandi&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=bobipermanasandi&theme=radical" alt="GitHub Streak" />
 </a>
 </p>
+
+
+
+### 🌐 GitHub Activity Graph  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobipermanasandi&theme=dracula&bg_color=20232a&color=61dafb&line=61dafb&point=f13d3d" alt="GitHub Activity Graph" />
+</div>
+
+
 
 ---
 
