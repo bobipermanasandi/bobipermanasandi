@@ -10,7 +10,7 @@
 
 - 📱 &nbsp; Passionate about **Mobile App Development**
 - 🖥️ &nbsp; Currently building apps using **Flutter**
-- 🌱 &nbsp; Exploring the backend world with **PHP & Laravel**
+- 🌱 &nbsp; Exploring the backend with **PHP & Laravel**
 - 🤝 &nbsp; Open for collaboration & freelance work
 - 📬 &nbsp; Reach me at: **bobipermana17@gmail.com**
 - 📂 &nbsp; My projects live here: [GitHub Repositories](https://github.com/bobipermanasandi?tab=repositories)
