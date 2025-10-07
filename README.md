@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Bobi</h1>
-<h3 align="center">💻 Mobile Developer | 🚀 Lifelong Learner | 🌐 Based in Indonesia</h3>
+<h3 align="center">💻 Software Engineer | 🚀 Lifelong Learner | 🌐 Based in Indonesia</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="300" alt="Coding GIF"/>
