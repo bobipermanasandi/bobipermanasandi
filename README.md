@@ -1,10 +1,5 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Bobi</h1>
-<h3 align="center">💻 Software Engineer | 🚀 Lifelong Learner | 🌐 Based in Indonesia</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="300" alt="Coding GIF"/>
-</p>
 
 ### 🔍 About Me
 
@@ -47,12 +42,14 @@
 </div>
 
 
-
 ---
+
+ 
 
 ### 💬 Quote at the moment
 
-<img src="assets/images.jpg" height="300em" />
+<img src="assets/images.jpg" height="300em" />  <img src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="300" alt="Cid Kagenou"/>
+
 
 > *"Continuous improvement is better than delayed perfection."*  
 > — [Mélodie | Visual Ideas](https://x.com/melodie_tld/status/1549023788330893313)
