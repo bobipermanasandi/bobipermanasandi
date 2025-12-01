@@ -7,7 +7,6 @@
 - 🖥️ &nbsp; Currently building apps using **Flutter**
 - 🌱 &nbsp; Exploring the backend with **PHP & Laravel**
 - 🤝 &nbsp; Open for collaboration & freelance work
-- 📬 &nbsp; Reach me at [LinkedIn](https://www.linkedin.com/in/bobipermanasandi)
 
 ---
 
