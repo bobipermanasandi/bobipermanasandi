@@ -4,8 +4,7 @@
 ### 🔍 About Me
 
 - 📱 &nbsp; Passionate about **Mobile App Development**
-- 🖥️ &nbsp; Currently building apps using **Flutter**
-- 🌱 &nbsp; Exploring the backend with **PHP & Laravel**
+- 🖥️ &nbsp; Currently building apps using **Flutter** and **Kotlin**
 - 🤝 &nbsp; Open for collaboration & freelance work
 
 ---
