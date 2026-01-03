@@ -40,17 +40,6 @@
 
 ---
 
- 
-
-### 💬 Quote at the moment
-
-<img src="assets/images.jpg" height="300em" />  <img src="https://raw.githubusercontent.com/bobipermanasandi/bobipermanasandi/main/assets/gif/cid2.gif" width="300" alt="Cid Kagenou"/>
-
-
-> *"Continuous improvement is better than delayed perfection."*  
-> — [Mélodie | Visual Ideas](https://x.com/melodie_tld/status/1549023788330893313)
-
-
 <!-- Feel free to remove this footer if you prefer a cleaner look -->
 <p align="center">
   <sub>Made with ❤️ by CodeSynesia • Powered by curiosity and grass jelly cappuccino ☕</sub>
