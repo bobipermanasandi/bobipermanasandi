@@ -11,13 +11,7 @@
 
 ### ⚒️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,laravel,firebase,postman,figma)](https://skillicons.dev)
 
 ### 📊 Github Statistic
 
